@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ActionCollection version="2" name="Scripts">
+    <Actions category="Scripts">
+		<text>Refresh Layer</text>
+	
+        <Action name="pykrita_refresh_layer">
+        <icon></icon>
+        <text>Refresh Layer</text>
+        <whatsThis>Shortcut for refreshing layer</whatsThis>
+        <toolTip>Shortcut for refreshing layer</toolTip>
+        <iconText>Refresh</iconText>
+        <!--<activationFlags>10000</activationFlags>
+        <activationConditions>NO_CONDITION</activationConditions>-->
+        <shortcut>ctrl+f5</shortcut>
+        <isCheckable>false</isCheckable>
+        <statusTip></statusTip>
+        </Action>
+    </Actions>
+</ActionCollection>

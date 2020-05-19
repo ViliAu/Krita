@@ -1,0 +1,15 @@
+With plugin installer:
+
+1. Start Krita and navigate to Tools -> Scripts -> Import Python plugin.
+2. Select the "Refresh layer plugin.zip" file and press ok.
+3. Copy the file in the "action" folder to your krita actions folder to enable keyboard shortcut (Default: "C:\Users\[USERNAME]\AppData\Roaming\krita\actions")
+   if the folder doesn't exist create it.
+4. Restart Krita.
+
+
+Manual install:
+
+1. Unpack "Refresh layer plugin.zip" in the "pykrita" folder into your krita plugin folder (Default: "C:\Users\[USERNAME]\AppData\Roaming\krita\pykrita")
+2. Copy the file in the "action" folder to your krita actions folder to enable keyboard shortcut (Default: "C:\Users\[USERNAME]\AppData\Roaming\krita\actions")
+   if the folder doesn't exist create it.
+3. Restart Krita if it is running.

@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Service
+ServiceTypes=Krita/PythonPlugin
+X-KDE-Library=refresh_layer
+X-Python-2-Compatible=false
+X-Krita-Manual=refreshmanual.html
+Name=Refresh layer
+Comment=Refreshes the current layer
